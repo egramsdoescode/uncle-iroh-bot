@@ -17,8 +17,8 @@ If you would like to copy this code and create/host the bot in your own server, 
 
 Ex. `botToken = "<your discord bot token here>"`
 
-'!uncle wisdom' will prompt the bot to send an inspiring/philosophical Uncle Iroh quote
-'!uncle haha' will prompt the bot to send a funny Uncle Iroh quote
+ *`!uncle wisdom` will prompt the bot to send an inspiring/philosophical Uncle Iroh quote
+ *`!uncle haha` will prompt the bot to send a funny Uncle Iroh quote
 
 Information on how to create your own bot can be found here: [Discord Developer](https://discord.com/developers/docs/intro)
 
