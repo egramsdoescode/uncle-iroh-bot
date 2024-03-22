@@ -20,7 +20,7 @@ Ex. `botToken = "<your discord bot token here>"`
  * `!uncle wisdom` will prompt the bot to send an inspiring/philosophical Uncle Iroh quote
  * `!uncle haha` will prompt the bot to send a funny Uncle Iroh quote
 
-![Bot example](https://github.com/egramsdoescode/uncle-iroh-bot/blob/main/uncle_iroh_bot_example.JPG?raw=true)
+![Bot example](https://github.com/egramsdoescode/uncle-iroh-bot/blob/main/example/uncle_iroh_bot_example.JPG?raw=true)
 
 Not many quotes were added, so feel free to add your favorite Uncle Iroh quotes!
 
