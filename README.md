@@ -1,6 +1,6 @@
 # Uncle Iroh Discord Bot
 
-![Uncle Iroh eating](https://tenor.com/WWgj.gif)
+![Uncle Iroh eating](https://media1.tenor.com/m/UZhw7z7yB2YAAAAC/iroh-eating.gif)
 
 ## A discord bot that serves funny or inspirational quotes from the ever-popular Avatar: The Last Airbender animated series.
 
